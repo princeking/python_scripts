@@ -1,0 +1,6 @@
+2020-03-02 21:08:29,465 :: test :: 8 :: This is a debug message
+2020-03-02 21:08:29,465 :: test :: 9 :: This is a info message
+2020-03-02 21:08:29,465 :: test :: 10 :: This is a warning
+2020-03-02 21:08:29,465 :: test :: 11 :: This is a error
+2020-03-02 21:08:29,465 :: test :: 12 :: This is highly critical
+2020-03-02 21:08:29,466 :: <module> :: 16 :: This is a warning from logging_example2.py
